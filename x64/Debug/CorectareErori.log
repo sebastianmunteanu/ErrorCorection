@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\Facultate\Anul II\S02\ReteleDeCalculatoare\T1\CorectareErori\CorectareErori\Calcul.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Facultate\Anul II\S02\ReteleDeCalculatoare\T1\CorectareErori\CorectareErori\FileW.h(22,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate\Anul II\S02\ReteleDeCalculatoare\T1\CorectareErori\CorectareErori\MessageW.h(12,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CorectareErori.vcxproj -> E:\Facultate\Anul II\S02\ReteleDeCalculatoare\T1\CorectareErori\x64\Debug\CorectareErori.exe
